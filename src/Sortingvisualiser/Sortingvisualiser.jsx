@@ -1,7 +1,7 @@
 import React from "react";
 import './Sortingvisualiser.css';
 
-export class Sortingvisualiser extends React.Component {
+export default class Sortingvisualiser extends React.Component {
     constructor(props){
         super(props);
 
@@ -28,12 +28,12 @@ export class Sortingvisualiser extends React.Component {
 
         return (
             <>
-            {array.map((value,idx) =>{
+            {array.map((value,idx) =>(
                 <div className="array-bar" key={idx}>
                     {value}
 
                 </div>
-            })}
+            ))}
             </>
         );
       
