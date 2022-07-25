@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Sorting Visulaiser
+
+This project helps a beginner coder to deeply understand how the merge sort algorithm works. It creates animations of array with different colors according to their present state in the sorting.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
