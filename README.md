@@ -2,6 +2,9 @@
 
 This project helps a beginner coder to deeply understand how the merge sort algorithm works. It creates animations of array with different colors according to their present state in the sorting.
 
+![image](https://user-images.githubusercontent.com/82753429/180858853-ba1d7f52-7d81-4c89-92ca-1bfda88c8eb0.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
